@@ -1,24 +1,29 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+# Lollypop Slot Machine
 
-### Goal: Build a Simple Slot Machine
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+<img width="664" height="724" alt="image" src="https://github.com/user-attachments/assets/6a595d5f-190f-429a-8ec8-6b90f54fef93" />
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Project Overview
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+This is a classic browser-based slot machine game featuring three reels with five unique lollipop symbols. It includes a dynamic betting system and a real-time score tracker, allowing users to play until their coins run out. The game's state is reset upon refreshing the browser, offering a fresh start for every play session.
+
+## Core Features
+
+* Spin the three reels to land on winning combinations.
+* Place bets with a minimum and maximum coin option.
+* Watch your score update automatically after each spin.
+* The game automatically ends when all coins have been used.
+
+## Technologies
+
+* **HTML:** Structuring the game interface and the slot machine reels.
+* **CSS:** Styling the visual elements, including the reels and spin animations.
+* **JavaScript:** Handling all game logic, from managing bets and scores to handling win/loss conditions.
+
+## Key Learnings
+
+This project was an excellent opportunity to strengthen my skills in frontend game development, specifically:
+* Dynamically updating the user interface and manipulating the DOM with **JavaScript**.
+* Implementing game logic and win conditions using **conditional statements**.
+* Managing variables for user data such as coins and bets.
