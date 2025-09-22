@@ -21,7 +21,7 @@ This is a classic browser-based slot machine game featuring three reels with fiv
 * **CSS:** Styling the visual elements.
 * **JavaScript:** Handling all game logic, from managing bets and scores to handling win/loss conditions.
 
-## Key Learnings
+## Key Takeaways
 
 This project was an excellent opportunity to strengthen my skills in frontend game development, specifically:
 * Dynamically updating the user interface and manipulating the DOM with **JavaScript**.
