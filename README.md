@@ -1,4 +1,4 @@
-# Lollypop Slot Machine
+# Lollipop Slot Machine
 
 
 <img width="664" height="724" alt="image" src="https://github.com/user-attachments/assets/6a595d5f-190f-429a-8ec8-6b90f54fef93" />
