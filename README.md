@@ -6,19 +6,19 @@
 
 ## Project Overview
 
-This is a classic browser-based slot machine game featuring three reels with five unique lollipop symbols. It includes a dynamic betting system and a real-time score tracker, allowing users to play until their coins run out. The game's state is reset upon refreshing the browser, offering a fresh start for every play session.
+This is a classic browser-based slot machine game featuring three reels with five unique lollipop symbols. It includes a dynamic betting system and a real-time score tracker, allowing users to play until their money run out. The game's state is reset upon refreshing the browser, offering a fresh start for every play session.
 
 ## Core Features
 
 * Spin the three reels to land on winning combinations.
-* Place bets with a minimum and maximum coin option.
+* Place bets with a minimum and maximum payment option.
 * Watch your score update automatically after each spin.
-* The game automatically ends when all coins have been used.
+* The game automatically ends when all the money have been used.
 
 ## Technologies
 
 * **HTML:** Structuring the game interface and the slot machine reels.
-* **CSS:** Styling the visual elements, including the reels and spin animations.
+* **CSS:** Styling the visual elements.
 * **JavaScript:** Handling all game logic, from managing bets and scores to handling win/loss conditions.
 
 ## Key Learnings
@@ -26,4 +26,4 @@ This is a classic browser-based slot machine game featuring three reels with fiv
 This project was an excellent opportunity to strengthen my skills in frontend game development, specifically:
 * Dynamically updating the user interface and manipulating the DOM with **JavaScript**.
 * Implementing game logic and win conditions using **conditional statements**.
-* Managing variables for user data such as coins and bets.
+* Managing variables for user data such as money and bets.
